@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     private static final String[] usernameSiswa = { "202310370311395", "12345678", "11111", "101104" };
-    private static final String usernameAdmin = "admin";
+    private static final String usernameAdmin = "nobi";
     private static final String passwordAdmin = "novi123";
 
     public static void main(String[] args) {
